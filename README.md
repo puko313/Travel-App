@@ -1,64 +1,71 @@
-Contribution: 2011-09-08 20:00
+## Travel App UI
 
-Contribution: 2011-09-08 20:01
+ A Travel UI App Which is made using Dart,Flutter.
+ UI is Taken From [Here](https://github.com/workwithhim/travel-app.git)
+ 
+ ## Packages Used 
 
-Contribution: 2011-09-08 20:02
+The Following Dart And Flutter Packages Has Been Used In The Project.
+```dart
+import 'package:flutter/material.dart';
+```
 
-Contribution: 2011-09-13 20:00
+## Features
 
-Contribution: 2011-09-13 20:01
+- Just A Travel App UI 😍
 
-Contribution: 2011-09-14 20:00
+## GitHub 
 
-Contribution: 2011-09-16 20:00
+If You Want To Create A New Repository In Your GitHub Then Do Following Steps :
+1) Open Git Bash.
+2) Run The Following Commands :
+```git
+#Initialize the local directory as a Git repository using :
+$ git init
 
-Contribution: 2011-09-16 20:01
+#Add the files in your new local repository. This stages them for the first commit. Use The Following Command :
+$ git add .
 
-Contribution: 2011-09-20 20:00
+#Commit the files that you've staged in your local repository.
+$ git commit -m "First commit"
 
-Contribution: 2011-09-20 20:01
+#In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
+$ git remote add origin remote repository URL
+# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
 
-Contribution: 2011-09-20 20:02
+#Push the changes in your local repository to GitHub.
+$ git push origin master
+```
 
-Contribution: 2011-09-20 20:03
+## GitHub  Clone
 
-Contribution: 2011-09-20 20:04
+If You Want To Clone This Repository Then Do The Following Steps :
+1) Open Git Bash.
+2) Run The Following Commands :
+```git
+$ git clone https://github.com/workwithhim/travel-app.git
+```
 
-Contribution: 2011-09-22 20:00
+## Images
 
-Contribution: 2011-09-22 20:01
+![First](images/ui_design_travel.png)
 
-Contribution: 2011-09-23 20:00
+![Second](images/Screenshot_1601715045.png)
 
-Contribution: 2011-09-23 20:01
+![Third](images/Screenshot_1601715247.png)
 
-Contribution: 2011-09-23 20:02
 
-Contribution: 2011-09-26 20:00
+## Getting Started
 
-Contribution: 2011-09-26 20:01
+This project is a starting point for a Flutter application.
 
-Contribution: 2011-09-26 20:02
+A few resources to get you started if this is your first Flutter project:
 
-Contribution: 2011-09-27 20:00
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Contribution: 2011-09-27 20:01
-
-Contribution: 2011-09-28 20:00
-
-Contribution: 2011-09-28 20:01
-
-Contribution: 2011-09-28 20:02
-
-Contribution: 2011-09-28 20:03
-
-Contribution: 2011-09-28 20:04
-
-Contribution: 2011-09-29 20:00
-
-Contribution: 2011-09-29 20:01
-
-Contribution: 2011-09-29 20:02
-
-Contribution: 2011-09-30 20:00
-
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
